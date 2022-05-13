@@ -1,0 +1,4 @@
+stm32f411e_discovery_accelerometer.c:96:9:BSP_ACCELERO_Init	32	static
+stm32f411e_discovery_accelerometer.c:194:6:BSP_ACCELERO_Reset	8	static
+stm32f411e_discovery_accelerometer.c:205:6:BSP_ACCELERO_Click_ITConfig	8	static
+stm32f411e_discovery_accelerometer.c:218:6:BSP_ACCELERO_GetXYZ	24	static

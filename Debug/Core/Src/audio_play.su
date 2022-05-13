@@ -1,0 +1,2 @@
+audio_play.c:83:6:AudioPlay_Test	16	static
+audio_play.c:210:6:BSP_AUDIO_OUT_Error_CallBack	8	static

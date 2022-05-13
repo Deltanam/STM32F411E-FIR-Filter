@@ -1,0 +1,14 @@
+core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+main.c:97:5:main	8	static
+main.c:242:13:SystemClock_Config	88	static
+main.c:288:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:302:6:Toggle_Leds	8	static
+main.c:316:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:342:5:_write	32	static
+main.c:356:6:Error_Handler	8	static
+main.c:365:13:GPIOA_Init	32	static
+main.c:377:16:ProcessSample	32	static
+main.c:407:16:ProcessSampleNew	32	static
+main.c:444:16:ProcessSample2	32	static,ignoring_inline_asm
+main.c:475:16:ProcessSample3	48	static,ignoring_inline_asm
+main.c:503:16:ProcessSample4	32	static
